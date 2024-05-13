@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "150418138877",
+    "firebase_url": "https://bubblenative-f7744-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "bubblenative-f7744",
+    "storage_bucket": "bubblenative-f7744.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150418138877:android:6dfb07c51c8de69eba0094",
+        "android_client_info": {
+          "package_name": "bubble.bubble.pack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHmTIUJSBH7f2Yjg_543nSFw4smc76HsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
