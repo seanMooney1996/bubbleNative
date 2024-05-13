@@ -1,0 +1,6 @@
+Run the project:
+    npm install
+    npx expo start
+
+Initializing Google Maps:
+    npm install react-native-maps
