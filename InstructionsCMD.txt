@@ -1,6 +1,15 @@
+14/05/24
+
 Run the project:
     npm install
     npx expo start
 
 Initializing Google Maps:
     npm install react-native-maps
+
+16/05/24
+
+Maps:
+npm add react-native-map-directions react-native-maps
+npm install expo-location
+  
